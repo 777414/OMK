@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored />
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>C:\Users\User\Documents\Primo\cbrParser\Tests\GetCBRData_Test.ltw</Key>
+            <Value>df07eefd-cd7e-469b-8b33-ddd9573fd81f</Value>
+        </KeyValueItem>
+    </Breakpoints>
+    <BreakpointLines />
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\User\Documents\Primo\cbrParser\Main.ltw</string>
+        <string>C:\Users\User\Documents\Primo\cbrParser\Framework\Process.ltw</string>
+        <string>C:\Users\User\Documents\Primo\cbrParser\SubProcess\XMLtoDataTable.ltw</string>
+        <string>C:\Users\User\Documents\Primo\cbrParser\SubProcess\GetCBRData.ltw</string>
+        <string>C:\Users\User\Documents\Primo\cbrParser\SubProcess\WriteExcel.ltw</string>
+        <string>C:\Users\User\Documents\Primo\cbrParser\Framework\CloseAllApplications.ltw</string>
+        <string>C:\Users\User\Documents\Primo\cbrParser\Tests\GetCBRData_Test.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>

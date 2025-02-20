@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored>
+        <KeyValueItem>
+            <Key>C:\Users\lianguzova_ad\Documents\Primo\Regex_Test\Main.ltw</Key>
+            <Value>a3192c5d-f9c7-476a-b70f-628a297efc72</Value>
+        </KeyValueItem>
+    </Ignored>
+    <Breakpoints />
+    <BreakpointLines />
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\User\Downloads\OMK\exe2\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>
